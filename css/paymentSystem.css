@@ -1,0 +1,49 @@
+/* payment system logos*/
+.MasterCard{
+    background: url('../images/systems/master_card.png') center no-repeat;
+}
+.MIR{
+    background: url('../images/systems/mir.jpg') center no-repeat;
+}
+.Visa{
+    background: url('../images/systems/visa-logo.png')center no-repeat;
+}
+.ChinaUnionPay{
+    background: url('../images/systems/china-union-pay.png') center no-repeat;
+}
+.DinersClubInternational{
+    background: url('../images/systems/dci.png') center no-repeat;
+}
+.AmericanExpress{
+    background: url('../images/systems/american-express.png') center no-repeat;
+}
+.Maestro{
+    background: url('../images/systems/maestro.png') center no-repeat;
+}
+.Shell{
+    background: url('../images/systems/shell.jpg') center no-repeat;
+}
+.JCB{
+    background: url('../images/systems/JCB.png') center no-repeat;
+}
+.BP{
+    background: url('../images/systems/bp.jpg') center no-repeat;
+}
+.SFR{
+    background: url('../images/systems/sfr.jpeg') center no-repeat;
+}
+.E100{
+    background: url('../images/systems/e100.jpg') center no-repeat;
+}
+.DKV{
+    background: url('../images/systems/dkv.jpg') center no-repeat;
+}
+.OMV{
+    background: url('../images/systems/omv.jpg') center no-repeat;
+}
+.ENI{
+    background: url('../images/systems/eni.png') center no-repeat;
+}
+.LUKOIL{
+    background: url('../images/systems/lukoil.png') center no-repeat;
+}

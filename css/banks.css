@@ -1,0 +1,336 @@
+
+.bank1{
+    background: url('../images/banks/1.png') 0 18px no-repeat;
+}
+
+.card-front-bank-1{
+    background-color: rgb(51, 135, 23) !important;
+}
+
+.card-back-bank-1{
+    background-color: rgb(47, 114, 25) !important;
+}
+
+
+.bank2{
+    background: url('../images/banks/2.png') 0 18px no-repeat;
+}
+
+.card-front-bank-2{
+    background-color: #00b5e7 !important;
+}
+
+.card-back-bank-2{
+     background-color: #128dd0 !important;
+}
+
+.bank3{
+    background: url('../images/banks/3.png') 0 18px no-repeat;
+}
+
+.card-front-bank-3{
+    background-color: rgb(225, 63, 61) !important;
+}
+
+.card-back-bank-3{
+     background-color: rgb(185, 55, 55) !important;
+}
+
+
+.bank4{
+    background: url('../images/banks/4.png') 0 15px no-repeat;
+}
+.card-front-bank-4{
+    background-color: rgb(14, 83, 154) !important;
+}
+.card-back-bank-4{
+    background-color: rgb(28, 76, 128) !important;
+}
+
+.bank5{
+    background: url('../images/banks/5.png') 0 15px no-repeat;
+}
+.card-front-bank-5{
+    background-color: #296130 !important;
+}
+.card-back-bank-5{
+    background-color: #235229 !important;
+}
+
+.bank6{
+    background: url('../images/banks/6.png') 0 15px no-repeat;
+}
+.card-front-bank-6{
+    background-color: #06AAE7 !important;
+}
+.card-back-bank-6{
+    background-color: #078cbd !important;
+}
+
+
+.bank7{
+    background: url('../images/banks/7.png') 0 15px no-repeat;
+}
+.card-front-bank-7{
+    background-color: #9AA8A9 !important;
+}
+.card-back-bank-7{
+    background-color: #859192 !important;
+}
+
+.bank8{
+    background: url('../images/banks/8.png') 0 15px no-repeat;
+}
+.card-front-bank-8{
+    background-color: #F4D111 !important;
+}
+.card-back-bank-8{
+    background-color: #E3BF15 !important;
+}
+
+.bank9{
+    background: url('../images/banks/9.png') 0 15px no-repeat;
+}
+.card-front-bank-9{
+    background-color: #5096D2 !important;
+}
+.card-back-bank-9{
+    background-color: #4885b9 !important;
+}
+
+.bank10{
+    background: url('../images/banks/10.png')0 15px no-repeat;
+}
+.card-front-bank-10{
+    background-color: rgb(245, 209, 0) !important;
+}
+.card-back-bank-10{
+    background-color: rgb(228, 191, 0) !important;
+}
+
+.bank11{
+    background: url('../images/banks/11.png')0 15px no-repeat;
+}
+.card-front-bank-11{
+    background-color: #23448B !important;
+}
+.card-back-bank-11{
+    background-color: #1d376f !important;
+}
+
+.bank12{
+    background: url('../images/banks/12.png')0 15px no-repeat;
+}
+.card-front-bank-12{
+    background-color: rgb(14, 83, 154) !important;
+}
+.card-back-bank-12{
+    background-color: rgb(28, 76, 128) !important;
+}
+
+.bank13{
+    background: url('../images/banks/13.png')0 15px no-repeat;
+}
+.card-front-bank-13{
+    background-color: rgb(51, 135, 23) !important;
+}
+.card-back-bank-13{
+    background-color: rgb(47, 114, 25) !important;
+}
+
+.bank14{
+    background: url('../images/banks/14.png')0 15px no-repeat;
+}
+.card-front-bank-14{
+    background-color: #D0B043 !important;
+}
+.card-back-bank-14{
+    background-color: #b79a3b !important;
+}
+
+.bank15{
+    background: url('../images/banks/15.png')0 15px no-repeat;
+}
+.card-front-bank-15{
+    background-color: #E84033 !important;
+}
+.card-back-bank-15{
+    background-color: #c1352a !important;
+}
+
+.bank16{
+    background: url('../images/banks/16.png')0 15px no-repeat;
+}
+.card-front-bank-16{
+    background-color: #00407E !important;
+}
+.card-back-bank-16{
+    background-color: #00366b !important;
+}
+
+.bank17{
+    background: url('../images/banks/17.png')0 15px no-repeat;
+}
+.card-front-bank-17{
+    background-color: #79B14C !important;
+}
+.card-back-bank-17{
+    background-color: #669640 !important;
+}
+
+.bank18{
+    background: url('../images/banks/18.png')0 15px no-repeat;
+}
+.card-front-bank-18{
+    background-color: #5A86B5 !important;
+}
+.card-back-bank-18{
+    background-color: #496c92 !important;
+}
+
+.bank19{
+    background: url('../images/banks/19.png')0 15px no-repeat;
+}
+.card-front-bank-19{
+     background-color: rgb(51, 135, 23) !important;
+}
+.card-back-bank-19{
+    background-color: rgb(47, 114, 25) !important;
+}
+
+.bank20{
+    background: url('../images/banks/20.png')0 15px no-repeat;
+}
+.card-front-bank-20{
+    background-color: #00b5e7 !important;
+}
+.card-back-bank-20{
+    background-color: #128dd0 !important;
+}
+
+
+.bank21{
+    background: url('../images/banks/21.png')0 15px no-repeat;
+}
+.card-front-bank-21, .card-front-bank-33{
+    background-color: rgb(225, 63, 61) !important;
+}
+.card-back-bank-21, .card-back-bank-33{
+    background-color: rgb(185, 55, 55) !important;
+}
+
+
+.bank22{
+    background: url('../images/banks/22.png')0 15px no-repeat;
+}
+.card-front-bank-22{
+     background-color: #faa61a !important;
+}
+.card-back-bank-22{
+    background-color: #f58320 !important;
+}
+
+.bank23{
+    background: url('../images/banks/23.png')0 15px no-repeat;
+}
+.card-front-bank-23{
+    background-color: #B8CF7D !important;
+}
+.card-back-bank-23{
+    background-color: #688E43 !important;
+}
+
+.bank24{
+    background: url('../images/banks/24.png')0 15px no-repeat;
+}
+.card-front-bank-24{
+    background-color: #E13F3D !important;
+}
+.card-back-bank-24{
+    background-color: #B93737 !important;
+}
+
+.bank25{
+    background: url('../images/banks/25.jpg')0 15px no-repeat;
+}
+.card-front-bank-25{
+    background-color: #338717 !important;
+}
+.card-back-bank-25{
+    background-color: #30721A !important;
+}
+
+.bank26{
+    background: url('../images/banks/26.jpg')0 15px no-repeat;
+}
+.card-front-bank-26{
+     background-color: rgb(225, 63, 61) !important;
+}
+.card-back-bank-26{
+    background-color: rgb(185, 55, 55) !important;
+}
+
+.bank27{
+    background: url('../images/banks/27.png')0 15px no-repeat;
+}
+.card-front-bank-27{
+    background-color: rgb(245, 209, 0) !important;
+}
+.card-back-bank-27{
+    background-color: rgb(228, 191, 0) !important;
+}
+
+.bank28{
+    background: url('../images/banks/28.png')0 15px no-repeat;
+}
+.card-front-bank-28{
+    background-color: #DAE5E9 !important;
+}
+.card-back-bank-28{
+    background-color: #CAD3D8 !important;
+}
+
+
+.bank29{
+    background: url('../images/banks/29.png')0 15px no-repeat;
+}
+.card-front-bank-29{
+    background-color: rgb(245, 209, 0) !important;
+}
+.card-back-bank-29{
+    background-color: rgb(228, 191, 0) !important;
+}
+
+.bank30{
+    background: url('../images/banks/30.png')0 15px no-repeat;
+}
+.card-front-bank-30{
+    background-color: #DAE5E9 !important;
+}
+.card-back-bank-30{
+    background-color: #CAD3D8 !important;
+}
+
+.bank31{
+    background: url('../images/banks/31.png')0 15px no-repeat;
+}
+.card-front-bank-31{
+    background-color: #244597 !important;
+}
+.card-back-bank-31{
+    background-color: #1e3777 !important;
+}
+
+.bank32{
+    background: url('../images/banks/32.png')0 15px no-repeat;
+}
+.card-front-bank-32{
+    background-color: #355581 !important;
+}
+.card-back-bank-32{
+    background-color: #2b4569 !important;
+}
+
+.bank33{
+    background: url('../images/banks/33.png')0 15px no-repeat;
+}
